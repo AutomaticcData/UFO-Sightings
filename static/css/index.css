@@ -98,7 +98,8 @@ select {
   padding: 10px;
   margin: 0;
   background: black;
-  background-image: url("../images/nasa.jpg");
+  /*background-image: url("../images/nasa.jpg");*/
+  background-image: url("https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/ggZAv9L/animated-alien-and-ufo_eyksxrk9__F0013.png");
   background-attachment: fixed;
   background-position: bottom center;
   background-size: cover;
